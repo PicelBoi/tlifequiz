@@ -1,0 +1,125 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:c0731a3d7f615b2c6acafb274626da60:b3b2e9f382f1a3beef9a6f44b139d2dc:1e9ea531edb030fd06c741d8d5dec72b$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite-en-global {
+  display: inline-block;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-image: url(/assets/images/en/global/sprite.png);
+}
+
+.buy-now-modal-text-Digital-Download {
+  width: 195px;
+  height: 19px;
+  background-position: -2px -2px;
+}
+.buy-now-modal-text-Tomodachi-3DS-Bundle {
+  width: 232px;
+  height: 19px;
+  background-position: -2px -23px;
+}
+.global-header-buy-now {
+  width: 145px;
+  height: 116px;
+  background-position: -2px -162px;
+}
+.global-header-buy-now:hover {
+  width: 145px;
+  height: 116px;
+  background-position: -88px -44px;
+}
+.global-header-buy-now-bubble {
+  width: 84px;
+  height: 81px;
+  background-position: -2px -44px;
+}
+.global-header-make-your-mii-button {
+  width: 152px;
+  height: 39px;
+  background-position: -2px -321px;
+}
+.global-header-make-your-mii-button:hover {
+  width: 152px;
+  height: 39px;
+  background-position: -2px -280px;
+}
+.global-header-media-button {
+  width: 131px;
+  height: 39px;
+  background-position: -2px -403px;
+}
+.global-header-media-button:hover {
+  width: 131px;
+  height: 39px;
+  background-position: -2px -362px;
+}
+.global-header-pre-order-button {
+  width: 145px;
+  height: 116px;
+  background-position: -2px -562px;
+}
+.global-header-pre-order-button:hover {
+  width: 145px;
+  height: 116px;
+  background-position: -2px -444px;
+}
+.global-header-share-button {
+  width: 159px;
+  height: 39px;
+  background-position: -2px -721px;
+}
+.global-header-share-button:hover {
+  width: 159px;
+  height: 39px;
+  background-position: -2px -680px;
+}
+.global-mobile-buy-now {
+  width: 193px;
+  height: 166px;
+  background-position: -2px -930px;
+}
+.global-mobile-buy-now:hover {
+  width: 193px;
+  height: 166px;
+  background-position: -2px -762px;
+}
+.global-mobile-pre-order-now {
+  width: 193px;
+  height: 166px;
+  background-position: -2px -1266px;
+}
+.global-mobile-pre-order-now:hover {
+  width: 193px;
+  height: 166px;
+  background-position: -2px -1098px;
+}
+
+/*
+     FILE ARCHIVED ON 19:30:15 Jun 11, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:09:13 Mar 30, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.556
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.01
+  esindex: 0.01
+  cdx.remote: 12.841
+  LoadShardBlock: 166.596 (3)
+  PetaboxLoader3.datanode: 222.731 (5)
+  PetaboxLoader3.resolve: 204.944 (3)
+  load_resource: 285.941 (2)
+*/

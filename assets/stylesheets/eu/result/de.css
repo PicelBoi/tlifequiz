@@ -1,0 +1,28 @@
+                 /*$spritede-layout: smart;
+@import "spritede/*.png";
+
+@mixin spritede-css($name) {
+	@include spritede-sprite($name);
+	width: spritede-sprite-width($name);
+	height: spritede-sprite-height($name);
+}*/
+/* line 14, ../../../../src/sass/de.scss */
+.de .content-home .headline-cloud .quiz-title { font-size: 45px; }
+/* line 20, ../../../../src/sass/de.scss */
+.de .content-home .question-1 .quest-box .quest-answers .quest-answer-box:nth-child(1) .quest-answer .quest-answer-descr span, .de .content-home .question-1 .quest-box .quest-answers .quest-answer-box:nth-child(6) .quest-answer .quest-answer-descr span { font-size: 0.9em; }
+/* line 25, ../../../../src/sass/de.scss */
+.de .content-home .question-5 .mii-guide { margin-top: 75px; }
+/* line 30, ../../../../src/sass/de.scss */
+.de .content-home .question-7 .quest-box .quest-answers .quest-answer-box.box-1 .quest-answer .quest-answer-text { font-size: 0.75em; margin: 15px 15px; }
+/* line 35, ../../../../src/sass/de.scss */
+.de .content-home .question-7 .quest-box .quest-answers .quest-answer-box.box-2 .quest-answer .quest-answer-text { margin-top: 15px; }
+/* line 39, ../../../../src/sass/de.scss */
+.de .content-home .question-7 .quest-box .quest-answers .quest-answer-box.box-8 .quest-answer .quest-answer-text { margin-top: 20px; }
+/* line 44, ../../../../src/sass/de.scss */
+.de .content-home .coda .btn-result .inner-btn .btn-text { margin-top: 12px; }
+/* line 50, ../../../../src/sass/de.scss */
+.de .content-result .headline-cloud .quiz-title { font-size: 45px; }
+/* line 54, ../../../../src/sass/de.scss */
+.de .content-result .btn-site { width: 240px; }
+/* line 57, ../../../../src/sass/de.scss */
+.de .content-result .btn-site .inner-btn { width: 230px; }

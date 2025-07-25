@@ -1,0 +1,70 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:6f17efcc5abfb45849f5ab3c0c4a580a:2382ac13fc7d9a30b2dff8898a3f1fff:1e9ea531edb030fd06c741d8d5dec72b$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite-shared-makeYourMii {
+  display: inline-block;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-image: url(/assets/images/shared/makeYourMii/sprite.png);
+}
+
+.make-your-mii-tab-arrow-left {
+  width: 50px;
+  height: 100px;
+  background-position: -2px -206px;
+}
+.make-your-mii-tab-arrow-left:hover {
+  width: 50px;
+  height: 100px;
+  background-position: -2px -2px;
+}
+.make-your-mii-tab-arrow-left.disabled {
+  width: 50px;
+  height: 100px;
+  background-position: -2px -104px;
+}
+.make-your-mii-tab-arrow-right {
+  width: 50px;
+  height: 100px;
+  background-position: -2px -512px;
+}
+.make-your-mii-tab-arrow-right:hover {
+  width: 50px;
+  height: 100px;
+  background-position: -2px -308px;
+}
+.make-your-mii-tab-arrow-right.disabled {
+  width: 50px;
+  height: 100px;
+  background-position: -2px -410px;
+}
+
+/*
+     FILE ARCHIVED ON 19:30:15 Jun 11, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:09:14 Mar 30, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.51
+  exclusion.robots: 0.017
+  exclusion.robots.policy: 0.007
+  esindex: 0.011
+  cdx.remote: 23.281
+  LoadShardBlock: 301.856 (3)
+  PetaboxLoader3.datanode: 499.983 (5)
+  load_resource: 537.392 (2)
+  PetaboxLoader3.resolve: 193.358 (2)
+*/

@@ -1,0 +1,293 @@
+{
+	"questions" : {
+		"q4" : {
+			"slider" : {
+				"from" : {
+					"m" : "Langsam",
+					"f" : "Langsam"
+				},
+				"to" : {
+					"m" : "Schnell",
+					"f" : "Schnell"
+				}
+			},
+			"guideMii" : {
+				"m" : "Alles klar! Dann fangen wir jetzt mit dem Mii-Persönlichkeitstest an! Die erste Frage ist: Bist du langsam wie ein Faultier oder schnell wie ein Gepard?",
+				"f" : "Alles klar! Dann fangen wir jetzt mit dem Mii-Persönlichkeitstest an! Die erste Frage ist: Bist du langsam wie ein Faultier oder schnell wie ein Gepard?"
+			}
+		},
+
+		"q5" : {
+			"slider" : {
+				"from" : {
+					"m" : "Sanft",
+					"f" : "Sanft"
+				},
+				"to" : {
+					"m" : "Direkt",
+					"f" : "Direkt"
+				}
+			},
+			"answers" : [
+				{
+					"m" : "Verehrte(r) Freund(in), es hat den Anschein, als würde sich etwas zwischen deinen Zähnen befinden.",
+					"f" : "Verehrte(r) Freund(in), es hat den Anschein, als würde sich etwas zwischen deinen Zähnen befinden."
+				},
+				{
+					"m" : "Liebe(r) Freund(in), du hast etwas zwischen deinen Zähnen.",
+					"f" : "Liebe(r) Freund(in), du hast etwas zwischen deinen Zähnen."
+				},
+				{
+					"m" : "Liebe(r) Freund(in), du hast Essensreste zwischen deinen Zähnen.",
+					"f" : "Liebe(r) Freund(in), du hast Essensreste zwischen deinen Zähnen."
+				},
+				{
+					"m" : "Mein(e) Liebe(r), du hast da Essensreste zwischen den Zähnen.",
+					"f" : "Mein(e) Liebe(r), du hast da Essensreste zwischen den Zähnen."
+				},
+				{
+					"m" : "Entschuldige, du hast da was zwischen den Zähnen stecken.",
+					"f" : "Entschuldige, du hast da was zwischen den Zähnen stecken."
+				},
+				{
+					"m" : "Du hast etwas zwischen den Zähnen.",
+					"f" : "Du hast etwas zwischen den Zähnen."
+				},
+				{
+					"m" : "Essensreste … Zähne …",
+					"f" : "Essensreste … Zähne …"
+				},
+				{
+					"m" : "Hier ist ein Zahnstocher!",
+					"f" : "Hier ist ein Zahnstocher!"
+				}
+			]
+		},
+
+		"q6" : {
+			"guideMii" : {
+				"m" : "Ist dein Ausdruck eher kühl - oder doch lebhaft?",
+				"f" : "Ist dein Ausdruck eher kühl - oder doch lebhaft?"
+			}
+		},
+
+		"q7" : {
+			"answers" : [
+				{
+					"m" : "Was soll das heißen? Ich bin schon mein ganzes Leben lang vorbereitet.",
+					"f" : "Was soll das heißen? Ich bin schon mein ganzes Leben lang vorbereitet."
+				},
+				{
+					"m" : "Monate im Voraus, bevor ich überhaupt davon wusste.",
+					"f" : "Monate im Voraus, bevor ich überhaupt davon wusste."
+				},
+				{
+					"m" : "Sobald ich davon erfahre.",
+					"f" : "Sobald ich davon erfahre."
+				},
+				{
+					"m" : "Ein paar Wochen vorher.",
+					"f" : "Ein paar Wochen vorher."
+				},
+				{
+					"m" : "Eine Woche vorher.",
+					"f" : "Eine Woche vorher."
+				},
+				{
+					"m" : "Ein paar Tage vorher.",
+					"f" : "Ein paar Tage vorher."
+				},
+				{
+					"m" : "Am Tag davor.",
+					"f" : "Am Tag davor."
+				},
+				{
+					"m" : "Das wird ein Kinderspiel. Ich muss mich nicht vorbereiten.",
+					"f" : "Das wird ein Kinderspiel. Ich muss mich nicht vorbereiten."
+				}
+			]
+		}
+	},
+
+	"results" : {
+		"group" : [
+			{
+				"m" : "kühl und",
+				"f" : "kühl und"
+			},
+			{
+				"m" : "nüchtern und",
+				"f" : "nüchtern und"
+			},
+			{
+				"m" : "ruhig und",
+				"f" : "ruhig und"
+			},
+			{
+				"m" : "lebhaft und",
+				"f" : "lebhaft und"
+			}
+        ],
+		"type" : [
+            {
+                "m" : "geduldig",
+                "f" : "geduldig"
+            },
+            {
+                "m" : "intellektuell",
+                "f" : "intellektuell"
+            },
+            {
+                "m" : "introvertiert",
+                "f" : "introvertiert"
+            },
+            {
+                "m" : "nachdenklich",
+                "f" : "nachdenklich"
+            },
+            {
+                "m" : "zielstrebig",
+                "f" : "zielstrebig"
+            },
+            {
+                "m" : "ehrgeizig",
+                "f" : "ehrgeizig"
+            },
+            {
+                "m" : "freigeistig",
+                "f" : "freigeistig"
+            },
+            {
+                "m" : "schwungvoll",
+                "f" : "schwungvoll"
+            },
+            {
+                "m" : "unbeständig",
+                "f" : "unbeständig"
+            },
+            {
+                "m" : "optimistisch",
+                "f" : "optimistisch"
+            },
+            {
+                "m" : "warmherzig",
+                "f" : "warmherzig"
+            },
+            {
+                "m" : "gemächlich",
+                "f" : "gemächlich"
+            },
+            {
+                "m" : "kumpelhaft",
+                "f" : "kumpelhaft"
+            },
+            {
+                "m" : "extrovertiert",
+                "f" : "extrovertiert"
+            },
+            {
+                "m" : "charmant",
+                "f" : "charmant"
+            },
+            {
+                "m" : "abenteuerlustig",
+                "f" : "abenteuerlustig"
+            }
+		]
+	},
+
+	"descriptions" : {
+		"group" : [
+			{
+				"m" : "Ausdruck: <strong>Kühl</strong><br>Charakter: <strong>Gelassen, vorsichtig und rational<br>Scheinbar gleichgültig</strong>",
+				"f" : "Ausdruck: <strong>Kühl</strong><br>Charakter: <strong>Gelassen, vorsichtig und rational<br>Scheinbar gleichgültig</strong>"
+			},
+			{
+                "m" : "Ausdruck: <strong>Stolz</strong><br>Charakter: <strong>Prahlerisch, wetteifernd und wählerisch<br>Reizbar und zielorientiert</strong>",
+                "f" : "Ausdruck: <strong>Stolz</strong><br>Charakter: <strong>Prahlerisch, wetteifernd und wählerisch<br>Reizbar und zielorientiert</strong>"
+			},
+			{
+                
+                "m" : "Ausdruck: <strong>Fürsorglich</strong><br>Charakter: <strong>Entspannt, freundlich und ehrlich<br>Sensibel und arglos</strong>",
+                "f" : "Ausdruck: <strong>Fürsorglich</strong><br>Charakter: <strong>Entspannt, freundlich und ehrlich<br>Sensibel und arglos</strong>"
+			},
+			{
+				"m" : "Ausdruck: <strong>Lebhaft</strong><br>Charakter: <strong>Spontan, impulsiv und begeisterungsfähig<br>Anpassungsfähig, optimistisch</strong>",
+				"f" : "Ausdruck: <strong>Lebhaft</strong><br>Charakter: <strong>Spontan, impulsiv und begeisterungsfähig<br>Anpassungsfähig, optimistisch</strong>"
+			}
+        ],
+		"type" : [
+			{
+				"m" : "Denken geduldig zuerst an andere und vermeiden Streit. Aber wenn sich zu viel aufgestaut hat, können sie manchmal auch explodieren.",
+				"f" : "Denken geduldig zuerst an andere und vermeiden Streit. Aber wenn sich zu viel aufgestaut hat, können sie manchmal auch explodieren."
+			},
+			{
+				"m" : "Bringen immer vollen Einsatz. Ruhig und besonnen, aber nehmen auch kein Blatt vor den Mund, wenn es nötig ist. Brechen selten die Regeln.",
+				"f" : "Bringen immer vollen Einsatz. Ruhig und besonnen, aber nehmen auch kein Blatt vor den Mund, wenn es nötig ist. Brechen selten die Regeln."
+			},
+			{
+				"m" : "Äußerst schüchtern. Zeigen nicht viele Gefühle, aber in ihrem Inneren passiert sehr viel.",
+				"f" : "Äußerst schüchtern. Zeigen nicht viele Gefühle, aber in ihrem Inneren passiert sehr viel."
+			},
+			{
+				"m" : "Poker-Face. Durchdenken alles sorgfältig. Haben manchmal Probleme, weil sie verklemmt sind.",
+				"f" : "Poker-Face. Durchdenken alles sorgfältig. Haben manchmal Probleme, weil sie verklemmt sind."
+			},
+			{
+				"m" : "Extrem fleißig. Nehmen jede Herausforderung an, können aber etwas zerstreut sein.",
+				"f" : "Extrem fleißig. Nehmen jede Herausforderung an, können aber etwas zerstreut sein."
+			},
+			{
+				"m" : "Strenge Anführer, die sich auf ihre Instinkte verlassen, aber gestresst sein können, wenn unerwartete Dinge passieren.",
+				"f" : "Strenge Anführer, die sich auf ihre Instinkte verlassen, aber gestresst sein können, wenn unerwartete Dinge passieren."
+			},
+			{
+				"m" : "Machen Dinge auch gerne alleine. Geben zwar nicht an, haben aber unglaubliches Potential in sich.",
+				"f" : "Machen Dinge auch gerne alleine. Geben zwar nicht an, haben aber unglaubliches Potential in sich."
+			},
+			{
+				"m" : "Sehr talentiert. Bahnen sich im Leben ihre eigenen Wege und sorgen sich nicht über die Gedanken der anderen Leute. Setzen Pläne schnell um.",
+				"f" : "Sehr talentiert. Bahnen sich im Leben ihre eigenen Wege und sorgen sich nicht über die Gedanken der anderen Leute. Setzen Pläne schnell um."
+			},
+			{
+				"m" : "Die geborenen Stimmungsmacher. Wenn sie fröhlich sind, reißen sie damit alle mit. Allerdings kann ihre schlechte Stimmung natürlich auch abfärben.",
+				"f" : "Die geborenen Stimmungsmacher. Wenn sie fröhlich sind, reißen sie damit alle mit. Allerdings kann ihre schlechte Stimmung natürlich auch abfärben."
+			},
+			{
+				"m" : "Strahlen immer. Sie lachen nicht nur für sich selbst, sondern achten immer darauf, dass alle anderen auch Spaß haben.",
+				"f" : "Strahlen immer. Sie lachen nicht nur für sich selbst, sondern achten immer darauf, dass alle anderen auch Spaß haben."
+			},
+			{
+				"m" : "Kümmern sich um alle und geben sich viel Mühe, dass sich alle gut verstehen. Können auch verletzlich sein, weil sie sich immer auf andere verlassen.",
+				"f" : "Kümmern sich um alle und geben sich viel Mühe, dass sich alle gut verstehen. Können auch verletzlich sein, weil sie sich immer auf andere verlassen."
+			},
+			{
+				"m" : "Gelassen und offenherzig. Leben in ihrem eigenen Tempo und lassen sich nie hetzen. Können sich im Inneren aber auch große Sorgen machen.",
+				"f" : "Gelassen und offenherzig. Leben in ihrem eigenen Tempo und lassen sich nie hetzen. Können sich im Inneren aber auch große Sorgen machen."
+			},
+			{
+				"m" : "Immer auf der Suche nach Spaß und schließen schnell neue Freundschaften. Können aus jedem Problem auch etwas Positives machen.",
+				"f" : "Immer auf der Suche nach Spaß und schließen schnell neue Freundschaften. Können aus jedem Problem auch etwas Positives machen."
+			},
+			{
+				"m" : "Äußerst extrovertiert. Möchten immer, dass alle mitmachen und auch Spaß haben, können dabei aber etwas zu aufdringlich sein.",
+				"f" : "Äußerst extrovertiert. Möchten immer, dass alle mitmachen und auch Spaß haben, können dabei aber etwas zu aufdringlich sein."
+			},
+			{
+				"m" : "Beliebte Leute. Immer lebhaft und scheinen immer Spaß zu haben, müssen aber insgeheim oft viel Mühe für ihre Außenwirkung aufbringen.",
+				"f" : "Beliebte Leute. Immer lebhaft und scheinen immer Spaß zu haben, müssen aber insgeheim oft viel Mühe für ihre Außenwirkung aufbringen."
+			},
+			{
+				"m" : "Voller Energie und handeln immer nach ihrer Laune. Wenn sie einmal angefangen haben, kann sie nichts mehr aufhalten!",
+				"f" : "Voller Energie und handeln immer nach ihrer Laune. Wenn sie einmal angefangen haben, kann sie nichts mehr aufhalten!"
+			}
+		]
+	},
+
+    "share" : {
+        "twitter" : "Ich bin [Group] [Type] in #TomodachiLife! Was für ein Mii bist du? #3DS http://bit.ly/SqNqui",
+        "facebook" : "Ich bin [Group] [Type] in Tomodachi Life! Was für ein Mii seid ihr? Folgt diesem Link und findet es mit dem Mii-Persönlichkeitstest heraus: http://bit.ly/SqNqui",
+        "url" : "//www.nintendo.ch/de/Spiele/Nintendo-3DS/Tomodachi-Life-871968.html?site=quiz.html"
+    }
+}
+

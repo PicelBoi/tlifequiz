@@ -1,0 +1,75 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:620320b7c0cbe982ff4a35ab75d02d2f:6bdf4b3d9e79e7bf4bd326ca6aeaf40b:1e9ea531edb030fd06c741d8d5dec72b$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite-shared-home {
+  display: inline-block;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-image: url(/assets/images/shared/home/sprite.png);
+}
+
+.home-arrow-left {
+  width: 29px;
+  height: 51px;
+  background-position: -51px -2px;
+}
+.home-arrow-left:hover {
+  width: 35px;
+  height: 57px;
+  background-position: -118px -2px;
+}
+.home-arrow-right {
+  width: 28px;
+  height: 51px;
+  background-position: -21px -2px;
+}
+.home-arrow-right:hover {
+  width: 34px;
+  height: 57px;
+  background-position: -82px -2px;
+}
+.home-island-updates {
+  width: 161px;
+  height: 76px;
+  background-position: -2px -173px;
+}
+.home-modal-location-icon-container {
+  width: 138px;
+  height: 169px;
+  background-position: -155px -2px;
+}
+.home-tlz-sm-talk-bubble {
+  width: 17px;
+  height: 21px;
+  background-position: -2px -2px;
+}
+
+/*
+     FILE ARCHIVED ON 19:30:15 Jun 11, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:09:13 Mar 30, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.452
+  exclusion.robots: 0.016
+  exclusion.robots.policy: 0.007
+  esindex: 0.009
+  cdx.remote: 38.374
+  LoadShardBlock: 183.259 (3)
+  PetaboxLoader3.datanode: 410.144 (5)
+  load_resource: 361.941 (2)
+  PetaboxLoader3.resolve: 88.321 (2)
+*/

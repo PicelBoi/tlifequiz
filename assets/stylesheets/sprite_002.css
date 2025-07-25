@@ -1,0 +1,170 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:14cee6d13059de68716a98cac391c178:ad200d677655adcb3b53888e2dbbcd6f:1e9ea531edb030fd06c741d8d5dec72b$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite-shared-global {
+  display: inline-block;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-image: url(/assets/images/shared/global/sprite.png);
+}
+
+.button-buynow-flag-canada {
+  width: 85px;
+  height: 54px;
+  background-position: -224px -2px;
+}
+.button-buynow-flag-us {
+  width: 85px;
+  height: 54px;
+  background-position: -311px -2px;
+}
+.global-cloud-1 {
+  width: 120px;
+  height: 65px;
+  background-position: -985px -2px;
+}
+.global-cloud-2 {
+  width: 138px;
+  height: 70px;
+  background-position: -1551px -2px;
+}
+.global-cloud-3 {
+  width: 171px;
+  height: 82px;
+  background-position: -1691px -2px;
+}
+.global-cloud-4 {
+  width: 186px;
+  height: 89px;
+  background-position: -166px -99px;
+}
+.global-cloud-5 {
+  width: 162px;
+  height: 88px;
+  background-position: -2px -99px;
+}
+.global-cloud-6 {
+  width: 99px;
+  height: 59px;
+  background-position: -779px -2px;
+}
+.global-cloud-7 {
+  width: 103px;
+  height: 63px;
+  background-position: -880px -2px;
+}
+.global-cloud-8 {
+  width: 295px;
+  height: 162px;
+  background-position: -1208px -99px;
+}
+.global-cloud-9 {
+  width: 302px;
+  height: 175px;
+  background-position: -1505px -99px;
+}
+.global-header-3DS-logo {
+  width: 140px;
+  height: 16px;
+  background-position: -82px -2px;
+}
+.global-island-top {
+  width: 1850px;
+  height: 129px;
+  background-position: -2px -276px;
+}
+.global-logo-buynow-eshop {
+  width: 175px;
+  height: 29px;
+  background-position: -526px -2px;
+}
+.global-logo-club-nintendo {
+  width: 74px;
+  height: 78px;
+  background-position: -703px -2px;
+}
+.global-logo-nintendo {
+  width: 126px;
+  height: 38px;
+  background-position: -398px -2px;
+}
+.global-logo-onlyOn {
+  width: 246px;
+  height: 31px;
+  background-position: -1107px -2px;
+}
+.global-modal-buy-now-DS {
+  width: 207px;
+  height: 142px;
+  background-position: -999px -99px;
+}
+.global-modal-buy-now-DS-black {
+  width: 207px;
+  height: 142px;
+  background-position: -790px -99px;
+}
+.global-modal-buy-now-package {
+  width: 156px;
+  height: 144px;
+  background-position: -632px -99px;
+}
+.global-modal-close-button {
+  width: 38px;
+  height: 38px;
+  background-position: -42px -2px;
+}
+.global-modal-close-button:hover {
+  width: 38px;
+  height: 38px;
+  background-position: -2px -2px;
+}
+.global-modal-play-button {
+  width: 137px;
+  height: 136px;
+  background-position: -493px -99px;
+}
+.global-modal-play-button:hover {
+  width: 137px;
+  height: 136px;
+  background-position: -354px -99px;
+}
+.global-modal-play-button-large {
+  width: 96px;
+  height: 95px;
+  background-position: -1355px -2px;
+}
+.global-modal-play-button-large:hover {
+  width: 96px;
+  height: 95px;
+  background-position: -1453px -2px;
+}
+
+/*
+     FILE ARCHIVED ON 19:30:15 Jun 11, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:09:14 Mar 30, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.532
+  exclusion.robots: 0.02
+  exclusion.robots.policy: 0.009
+  esindex: 0.012
+  cdx.remote: 14.156
+  LoadShardBlock: 881.777 (3)
+  PetaboxLoader3.datanode: 937.656 (5)
+  load_resource: 377.916 (2)
+  PetaboxLoader3.resolve: 214.45
+*/

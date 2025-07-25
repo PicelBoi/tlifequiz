@@ -1,0 +1,172 @@
+{
+	"GB" : [
+		"London",
+		"South East",
+		"Midlands",
+		"Scotland",
+		"South West",
+		"North of England",
+		"Southern England",
+		"Wales",
+		"Northern Ireland",
+		"Manchester",
+		"Birmingham",
+		"Glasgow",
+		"North West",
+		"North East",
+		"East"
+	],
+
+	"AU" : [
+		"Australia",
+		"New Zealand"
+	],
+
+	"ZA" : [
+		"South Africa"
+	],
+
+	"DE" : [
+		"Baden-Württemberg",
+		"Bayern",
+		"Berlin",
+		"Brandenburg",
+		"Bremen",
+		"Hamburg",
+		"Hessen",
+		"Mecklenburg-Vorpommern",
+		"Niedersachsen",
+		"Nordrhein-Westfalen",
+		"Rheinland-Pfalz",
+		"Saarland",
+		"Sachsen",
+		"Sachsen-Anhalt",
+		"Schleswig-Holstein",
+		"Thüringen"
+	],
+
+	"AT" : [
+		"Ostösterreich",
+		"Westösterreich",
+		"Südösterreich"
+	],
+
+	"CH" : [
+		"Deutsch",
+		"Français",
+		"Italiano",
+		"Rumantsch"
+	],
+
+	"FR" : [
+		"Alsace",
+		"Aquitaine",
+		"Auvergne",
+		"Basse-Normandie",
+		"Bourgogne",
+		"Bretagne",
+		"Centre",
+		"Champagne-Ardenne",
+		"Corse",
+		"Franche-Comté",
+		"Haute-Normandie",
+		"Île-de-France",
+		"Languedoc-Roussillon",
+		"Limousin",
+		"Lorraine",
+		"Midi-Pyrénées",
+		"Nord-Pas-de-Calais",
+		"Pays de la Loire",
+		"Picardie",
+		"Poitou-Charentes",
+		"Région PACA",
+		"Rhône-Alpes",
+		"Guadeloupe",
+		"Guyane",
+		"La Réunion",
+		"Martinique",
+		"Mayotte"
+	],
+
+	"NL" : [
+		"Groningen",
+		"Friesland",
+		"Drenthe",
+		"Flevoland",
+		"Overijssel",
+		"Gelderland",
+		"Utrecht",
+		"Noord-Holland",
+		"Zuid-Holland",
+		"Zeeland",
+		"Noord-Brabant",
+		"Limburg"
+	],
+
+	"BE" : [
+		"Région flamande/ Vlaanderen",
+		"Région wallonne/Wallonië",
+		"Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest"
+	],
+
+	"IT" : [
+		"Italia"
+	],
+
+	"ES" : [
+		"Comunidad de Madrid",
+		"Andalucía",
+		"Aragón",
+		"Principado de Asturias",
+		"Islas Baleares",
+		"Islas Canarias",
+		"Cantabria",
+		"Castilla-La Mancha",
+		"Castilla y León",
+		"Cataluña",
+		"Comunidad Valenciana",
+		"Extremadura",
+		"Galicia",
+		"Región de Murcia",
+		"Navarra",
+		"País Vasco",
+		"La Rioja",
+		"Ceuta",
+		"Melilla"
+	],
+
+	"PT" : [
+		"Açores",
+		"Aveiro",
+		"Beja",
+		"Braga",
+		"Bragança",
+		"Castelo Branco",
+		"Coimbra",
+		"Évora",
+		"Faro",
+		"Guarda",
+		"Leiria",
+		"Lisboa",
+		"Madeira",
+		"Portalegre",
+		"Porto",
+		"Santarém",
+		"Setúbal",
+		"Viana do Castelo",
+		"Vila Real",
+		"Viseu"
+	],
+
+	"RU" : [
+		"Россия"
+	],
+
+	"US" : [
+	],
+
+	"Other"  : [
+		"Other"
+	]
+}
+
